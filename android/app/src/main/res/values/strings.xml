@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">自动接电话</string>
+    <string name="accessibility_service_label">自动接电话服务</string>
+    <string name="accessibility_service_description">在来电时按设定规则自动接听或拒接电话，并支持通话录音。可配置延迟时间、免提、白名单/黑名单过滤、定时时段与自动录音。本服务只读取来电状态并模拟接听/拒接操作，录音仅保存在本机应用目录，不会收集或上传任何个人信息。</string>
+</resources>

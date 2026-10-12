@@ -1,0 +1,17 @@
+name: auto_answer
+description: "自动接电话 / Answer calls automatically - 来电自动接听与通话录音 Demo (v1.0.0)"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
